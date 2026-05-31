@@ -1,3 +1,3 @@
-[build] 
-command = "npx vite build" 
+[build]  
+command = "npm install && run build"  
 publish = "dist" 
